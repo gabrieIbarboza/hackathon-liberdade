@@ -7,16 +7,35 @@ The Hackathon Liberdade was a weekend marathon aimed at promoting innovation thr
 -->
 
 ## Summary
-- [The main problem we identified](#what-was-the-main-problem-we-identified)
-- [Given solution](#what-solution-did-we-find)
-- [Our App](#our-app)
-- [Conclusion](#conclusion)
+- [Our Team](#shimeji-team-)
+- [Business Model](#the-challange)
+- [The Main Problem Identified](#what-was-the-main-problem-we-identified)
+- [Our Solution](#what-solution-did-we-find)
+- [Mobile App](#our-app)
+- [Conclusion](#what-have-i-learned)
+
+## Shimeji Team 🍄
+<p>
+  🍄 I worked in a group with people I had never met before and who were quite different from me, but we managed to do an amazing job together!
+</p>
+<p>
+  🍄 All teams were given a Japanese dish as their name. Shimeji was designated as ours.
+</p>
+<img src="https://raw.githubusercontent.com/gabrieIbarboza/hackathon-liberdade/update-hackathon-info/assets/pics/shimeji-team.jpg"/>
+
+## The challange
+We have created a startup to achieve the Hackathon's proposed objective. In order to do that, we developed a business model canvas to make our strategy.
+<div align="center">
+  <img src="https://raw.githubusercontent.com/gabrieIbarboza/hackathon-liberdade/update-hackathon-info/assets/pics/business-model.jpg" width="500"/>
+</div>
 
 ## What was the main problem we identified?
 
-Our team examined the problems of the Liberdade neighborhood using Design Thinking, as proposed by Miro Leite in his class, and identified a specific pain point: the lack of maintenance on the sidewalks, which causes a lot of stress for people, hinders the flow of visitors, and reduces the accessibility of the region for people with special mobility needs.
+<p>
+  Our team examined the problems of the Liberdade neighborhood using Design Thinking, as proposed by Miro Leite in his class, and identified a specific pain point: the lack of maintenance on the sidewalks, which causes a lot of stress for people, hinders the flow of visitors, and reduces the accessibility of the region for people with special mobility needs.
+</p>
+<img src="https://raw.githubusercontent.com/gabrieIbarboza/hackathon-liberdade/update-hackathon-info/assets/pics/sidewalk1.jpeg" width="300"/>
 
-<img src="https://raw.githubusercontent.com/gabrieIbarboza/hackathon-liberdade/update-hackathon-info/assets/app/calcadaliberdade.jpg"/>
 
 ## What solution did we find?
 
@@ -44,7 +63,7 @@ I had the task to create prototypes for our Pitch presentation, to show our app 
   <img src="https://raw.githubusercontent.com/gabrieIbarboza/hackathon-liberdade/update-hackathon-info/assets/app/app_jobs.png" width="100" />
 </div>
 
-### Conclusion
+### What have I learned?
 
 <div align="center">
   <p>
